@@ -3,15 +3,15 @@
 The aim of this project is to integrate Storybook components developed with Svelte to UXPin in order to design applications.
 
 ## Storybook using Svelte components
-Storybook is an open source tool for building UI components and pages in isolation. Among others, it is made for [Svelte] (https://svelte.dev/).
+Storybook is an open source tool for building UI components and pages in isolation. Among others, it is made for [Svelte](https://svelte.dev/).
 
 Following the [**Introduction to Storybook for Svelte tutorial**] (https://storybook.js.org/docs/svelte/get-started/introduction), it has been developed a Storybook containing components to create a simple taskbox.
 
 ## UXPin
-Once the Storybook is created, it can be used to design applications using [UXPin] (https://www.uxpin.com/home). UXPin is a code-based design tool that merges design and engineering into one unified process.
+Once the Storybook is created, it can be used to design applications using [UXPin](https://www.uxpin.com/home). UXPin is a code-based design tool that merges design and engineering into one unified process.
 
 ### Storybook integration
-The new feature being studied in this project is UXPin Merge. This includes Git integration and Storybook integration. This project is focused on investigating the possibilities that the latter offers. Storybook integration is used to bring fully interactive UI code-based components from Storybook and use them to design in UXPin. The main advantage is that it is possible to build prototypes that are consistent with all the design and development standards, by using the same components as the developers do. Moreover, designers are not required to know how to code since developers are in charge of it, and it is compatible with all Storybook frameworks (including Svelte). See the [documentation] (https://www.uxpin.com/docs/merge/storybook-integration/).
+The new feature being studied in this project is UXPin Merge. This includes Git integration and Storybook integration. This project is focused on investigating the possibilities that the latter offers. Storybook integration is used to bring fully interactive UI code-based components from Storybook and use them to design in UXPin. The main advantage is that it is possible to build prototypes that are consistent with all the design and development standards, by using the same components as the developers do. Moreover, designers are not required to know how to code since developers are in charge of it, and it is compatible with all Storybook frameworks (including Svelte). See the [documentation](https://www.uxpin.com/docs/merge/storybook-integration/).
 
 To further study this feature, it has been designed a simple application using the public library Storybook Design System components.
 
